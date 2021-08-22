@@ -1,0 +1,14 @@
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.exe
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.deps.json
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.runtimeconfig.json
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.runtimeconfig.dev.json
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.dll
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.pdb
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.csproj.AssemblyReference.cache
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.AssemblyInfoInputs.cache
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.AssemblyInfo.cs
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.dll
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.pdb
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.genruntimeconfig.cache

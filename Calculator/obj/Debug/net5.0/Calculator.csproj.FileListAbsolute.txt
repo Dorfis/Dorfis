@@ -1,0 +1,16 @@
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\dorfi\Source\Repos\Dorfis\Dorfis\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
